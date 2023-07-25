@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "category":"Food",
+        "sub-category":"HungerBox",
+        "amount":245,
+        "remarks":"mini meal"
+    },
+    {
+        "id":2,
+        "category":"Travel",
+        "sub-category":"bus",
+        "amount":330,
+        "remarks":"dmart to pg"
+    },
+    {
+        "id":3,
+        "category":"Groceries",
+        "sub-category":"mart",
+        "amount":510,
+        "remarks":"dmart to pg"
+    },
+    {
+        "id":4,
+        "category":"Shopping",
+        "sub-category":"mall",
+        "amount":1130,
+        "remarks":"dmart to pg"
+    }
+]
